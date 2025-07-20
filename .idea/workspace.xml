@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f5bddc6-be2b-4c2f-a422-0c22ea6e8d49" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/components/FileUploader.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/lib/utils.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/routes/upload.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/lib/pdf2img.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/routes.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/routes.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pnpm-lock.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pnpm-lock.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/lib/puter.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/lib/puter.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/routes/upload.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/routes/upload.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +87,7 @@
       <updated>1752973672363</updated>
       <workItem from="1752973673150" duration="1977000" />
       <workItem from="1752975701702" duration="7044000" />
-      <workItem from="1752987792207" duration="1159000" />
+      <workItem from="1752987792207" duration="3768000" />
     </task>
     <servers />
   </component>
